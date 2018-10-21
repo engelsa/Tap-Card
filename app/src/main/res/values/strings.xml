@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tap That</string>
+    <string name="title_activity_scrolling">Business Cards</string>
+    <string name="large_text">
+        "Tap a phone to add their info!"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
